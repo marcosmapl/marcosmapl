@@ -36,9 +36,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![TernsorFlow](https://img.shields.io/badge/-tensorflow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117)&nbsp;
-![Keras](https://img.shields.io/badge/-keras-0D1117?style=for-the-badge&logo=keras&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![NLP](https://img.shields.io/badge/-tensorflow-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117)&nbsp;
+![PyTorch](https://img.shields.io/badge/-keras-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
+![Transformers](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=transformers&labelColor=0D1117)&nbsp;
 
 #
 
