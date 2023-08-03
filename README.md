@@ -36,10 +36,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![PyTorch](https://img.shields.io/badge/-pytorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
 ![HuggingFace](https://img.shields.io/badge/-huggingface-0D1117?style=for-the-badge&logo=huggingface&labelColor=0D1117)&nbsp;
 ![Transformers](https://img.shields.io/badge/-transformers-0D1117?style=for-the-badge&logo=transformers&labelColor=0D1117)&nbsp;
 ![NLP](https://img.shields.io/badge/-nlp-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/-elasticsearch-0D1117?style=for-the-badge&logo=elasticsearch&labelColor=0D1117)&nbsp;
 
 #
 
