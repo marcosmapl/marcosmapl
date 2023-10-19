@@ -6,10 +6,10 @@
 
 #
 
-- 🎓 Computer Science - Federal University of Amazonas
-- 🔭 I’m currently working on Learning Analytics in Computing Education
-- 💻 I'm familiar with programming languages such as Python, C/C++ and Java
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🎓 Computer Science - Federal University of Amazonas.
+- 🔭 I’m currently working on Large Language Models in Recommender Systems.
+- 💻 I'm familiar with programming languages such as Python, C/C++ and Java.
+- 🌱 I’m currently learning Large Language Models, React and Elastic Search.
 - 📫 How to reach me: marcos.lima@icomp.ufam.edu.br
 - ⚡ Fun fact: Learning to play guitar
 
@@ -36,10 +36,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![HuggingFace](https://img.shields.io/badge/-huggingface-0D1117?style=for-the-badge&logo=huggingface&labelColor=0D1117)&nbsp;
-![Transformers](https://img.shields.io/badge/-transformers-0D1117?style=for-the-badge&logo=transformers&labelColor=0D1117)&nbsp;
-![NLP](https://img.shields.io/badge/-nlp-0D1117?style=for-the-badge&logo=nlp&labelColor=0D1117)&nbsp;
+![LLMs](https://img.shields.io/badge/-llms-0D1117?style=for-the-badge&logo=llms&labelColor=0D1117)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-elasticsearch-0D1117?style=for-the-badge&logo=elasticsearch&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 #
 
