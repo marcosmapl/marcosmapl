@@ -7,9 +7,9 @@
 #
 
 - 🎓 Computer Science - Federal University of Amazonas.
-- 🔭 I’m currently working on Large Language Models in Recommender Systems.
+- 🔭 I’m currently working on Large Language Models in Recommender Systems and Tax fraud detection.
 - 💻 I'm familiar with programming languages such as Python, C/C++ and Java.
-- 🌱 I’m currently learning Large Language Models, React and Elastic Search.
+- 🌱 I’m currently learning Large Language Models and Oracle BI.
 - 📫 How to reach me: marcos.lima@icomp.ufam.edu.br
 - ⚡ Fun fact: Learning to play guitar
 
@@ -37,8 +37,7 @@
 
 ### Studying in this moment:
 ![LLMs](https://img.shields.io/badge/-llms-0D1117?style=for-the-badge&logo=llms&labelColor=0D1117)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-elasticsearch-0D1117?style=for-the-badge&logo=elasticsearch&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Oracle BI](https://img.shields.io/badge/-oraclebi-0D1117?style=for-the-badge&logo=oraclebi&labelColor=0D1117)&nbsp;
 
 #
 
