@@ -5,13 +5,18 @@
 ### Hi there, I'm Marcos Lima 👋
 
 #
+Currently, I am a Data Scientist at the Municipal Department of Finance and Information Technology of Manaus, where I work with tax data analysis to combat tax fraud. I also work with the extraction and processing of large volumes of data and model business intelligence solutions to assist other municipal departments. Additionally, I have interest in Machine Learning field and have expercience with Large Language Models. I am passionate about learning new things and solving problems with creative solutions.
 
 - 🎓 Computer Science - Federal University of Amazonas.
-- 🔭 I’m currently working on Large Language Models in Recommender Systems and Tax fraud detection.
+- 🔭 I’m currently working on Large Language Models in Recommender Systems.
 - 💻 I'm familiar with programming languages such as Python, C/C++ and Java.
-- 🌱 I’m currently learning Large Language Models and Oracle BI.
+- 🌱 I’m currently learning Dashboards with Streamlit.
 - 📫 How to reach me: marcos.lima@icomp.ufam.edu.br
 - ⚡ Fun fact: Learning to play guitar
+
+#
+
+### How to reach me 📫
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcosmapl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -21,23 +26,24 @@
 
 #
 
-### Main skills:
+### Main skills
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c++&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+### Other Knowledge
+![SQL](https://img.shields.io/badge/sql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### Studying in this moment:
-![LLMs](https://img.shields.io/badge/-llms-0D1117?style=for-the-badge&logo=llms&labelColor=0D1117)&nbsp;
-![Oracle BI](https://img.shields.io/badge/-oraclebi-0D1117?style=for-the-badge&logo=oraclebi&labelColor=0D1117)&nbsp;
+#
+
+### Publications
+- [Difficulty classification of programming questions based on code metrics - SBIE 2020](https://doi.org/10.5753/cbie.sbie.2020.1323)
+- [Using code attributes for classifying the difficulty of coding questions - EduComp 2021](https://doi.org/10.5753/educomp.2021.14477)
+- [Using code attributes to classify the difficulty of programming problems in online judges - RBIE 2021](https://doi.org/10.5753/rbie.2021.29.0.1137)
 
 #
 
