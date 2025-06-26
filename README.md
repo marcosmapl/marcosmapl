@@ -44,11 +44,11 @@
 #
 
 ### Publications
+- [Um Estudo sobre o uso de Modelos de Linguagem Abertos na Tarefa de Recomendação de Próximo Item](https://doi.org/10.5753/sbbd.2024.240865)
 - [Difficulty classification of programming questions based on code metrics - SBIE 2020](https://doi.org/10.5753/cbie.sbie.2020.1323)
 - [Using code attributes for classifying the difficulty of coding questions - EduComp 2021](https://doi.org/10.5753/educomp.2021.14477)
 - [Using code attributes to classify the difficulty of programming problems in online judges - RBIE 2021](https://doi.org/10.5753/rbie.2021.29.0.1137)
 
-#
 
 [![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmapl&theme=dracula&show_icons=true)](https://github.com/marcosmapl/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmapl&layout=compact&langs_count=7&theme=dracula)](https://github.com/marcosmapl/github-readme-stats)
