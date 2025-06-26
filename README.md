@@ -5,14 +5,17 @@
 ### Hi there, I'm Marcos Lima 👋
 
 #
-Currently, I am a Data Scientist at the Municipal Department of Finance and Information Technology of Manaus, where I work with tax data analysis to combat tax fraud. I also work with the extraction and processing of large volumes of data and model business intelligence solutions to assist other municipal departments. Additionally, I have interest in Machine Learning field and have expercience with Large Language Models. I am passionate about learning new things and solving problems with creative solutions.
 
-- 🎓 Computer Science - Federal University of Amazonas.
-- 🔭 I’m currently working on Large Language Models in Recommender Systems.
-- 💻 I'm familiar with programming languages such as Python, C/C++ and Java.
-- 🌱 I’m currently learning Dashboards with Streamlit.
-- 📫 How to reach me: marcos.lima@icomp.ufam.edu.br
-- ⚡ Fun fact: Learning to play guitar
+- 🎓 Computer Science graduate from the Federal University of Amazonas (UFAM).
+- 🧠 Currently researching the use of autonomous agents in Business Intelligence systems.
+- 💼 I work as a Data Scientist at the Municipal Department of Finance and Information Technology of Manaus, focusing on tax data analysis to combat tax fraud.
+- 📊 I develop BI solutions for various departments, with experience in data extraction, processing large datasets, and building KPI dashboards using Power BI.
+- 🌐 I'm currently learning to build web applications with Django and interactive dashboards with Streamlit.
+- 🤖 I have a strong interest in Machine Learning and hands-on experience with Large Language Models (LLMs).
+- 💻 Comfortable working with Python, Java, JavaScript and SQL.
+- 🚀 Passionate about learning, solving complex problems, and building smart, creative solutions.
+- 🎸 Fun fact: I'm currently learning to play guitar.
+-📫 Feel free to reach out: marcos.lima@icomp.ufam.edu.br
 
 #
 
@@ -20,8 +23,8 @@ Currently, I am a Data Scientist at the Municipal Department of Finance and Info
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcosmapl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcos.lima@icomp.ufam.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/marcosmapl_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lima.d.marcos@icomp.ufam.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/marcoslima.mapl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 #
